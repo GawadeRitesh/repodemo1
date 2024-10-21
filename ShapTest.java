@@ -37,5 +37,5 @@ Shape s2=new Rectangle();
 
 System.out.println("Area of Square is "+s1.calarea());
 System.out.println("Area of Rectangle is "+s2.calarea());
-System.out.println("HELLOW ");
+System.out.println("HELLOW ");;;;
 }}
